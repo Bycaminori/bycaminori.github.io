@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+
+#title {
+    font-family: 'Questrial';
+    letter-spacing: 1px;
+}
+
+#prendas {
+    font-family: 'Questrial';
+    letter-spacing: 1px;
+}
